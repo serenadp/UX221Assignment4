@@ -15,3 +15,4 @@
 [02-Apr-2025 20:13:32 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/shortcodes.php on line 273
 [02-Apr-2025 20:13:33 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/shortcodes.php on line 297
 [02-Apr-2025 20:13:35 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/functions/functions.php on line 1219
+[02-Apr-2025 20:15:33 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 2097152 bytes) in /workspaces/UX221Assignment4/.wordpress/wp-content/plugins/ecommerce-product-catalog/ext-comp/index.php on line 34
