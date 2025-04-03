@@ -137,6 +137,41 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/tag/mind/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/peace/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/thoughts/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/morning/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/early/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/energy/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tag/intention/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/author/serenadp/
         </loc>
     </url>
